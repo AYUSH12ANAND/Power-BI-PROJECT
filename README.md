@@ -1,5 +1,6 @@
 # Power-BI-PROJECT
 **OBJECTIVE
+
 "To support business growth by analyzing data, focusing on time trends, and delivering insights for accurate sales predictions.
 
 **DESCRIPTION
